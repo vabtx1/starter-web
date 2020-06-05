@@ -1,0 +1,3 @@
+This is just some test to add to 
+my file.  Today is a great
+date to start typing.
