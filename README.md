@@ -8,3 +8,6 @@ more text
 ## Deployment
 Deploy text
 ## How To Contribute
+None
+### Copywrite
+None
